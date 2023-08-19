@@ -1,6 +1,6 @@
 # Model-compression（剪枝、量化、蒸馏）
 
-以下基础知识内容在个人博客：https://blog.csdn.net/qq_59572329
+以下基础知识内容在个人博客：[https://blog.csdn.net/qq_59572329](https://blog.csdn.net/qq_59572329/category_12225445.html?spm=1001.2014.3001.5482)
 
 ### 1.模型压缩基础知识（剪枝、量化、蒸馏）
 
@@ -23,5 +23,6 @@
 ### 3.模型压缩论文总结（剪枝、量化、蒸馏）
 
 ### 4.结构化剪枝综述
+![image](https://github.com/tanzlyn/Model-compression/assets/92300391/196880b6-adb7-4b3f-9583-c0f4e4de916c)
 
 
